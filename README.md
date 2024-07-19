@@ -27,5 +27,5 @@ For building and running the application, you need:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/scaleracademy/spring-boot-learning.git
-   cd spring-boot-learning
+   git clone https://github.com/Shashank-deb/scaler-springboot.git
+   cd scaler-springboot
