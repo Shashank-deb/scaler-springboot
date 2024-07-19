@@ -6,12 +6,7 @@ Welcome to the Spring Boot Learning project by Scaler Academy! This repository i
 - [Introduction](#introduction)
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [Running the Application](#running-the-application)
-- [Project Structure](#project-structure)
-- [Key Features](#key-features)
-- [Additional Resources](#additional-resources)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
